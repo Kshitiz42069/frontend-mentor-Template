@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kshitiz42069/frontend-mentor-Template)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Kshitiz42069/frontend-mentor-Template)
+- Live Site URL: [Live Link](https://kshitiz42069.github.io/frontend-mentor-Template/)
 
 ## My process
 
