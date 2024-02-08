@@ -11,10 +11,10 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop-Design
-![ScreenShot](./assets/images/full-screen.png)
+![ScreenShot](./assets/images/desktop.png)
 
 #### Hover-Effect
-![Hover](./assets/images/hover-effect.png)
+![Hover](./assets/images/hover.png)
 
 #### Mobile Screen
 ![Mobile](./assets/images/mobile.png)
@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Kshitiz42069/frontend-mentor-Template)
-- Live Site URL: [Live link](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Kshitiz42069/frontend-mentor-Template)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
